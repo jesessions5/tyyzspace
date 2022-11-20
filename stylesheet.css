@@ -1,0 +1,81 @@
+#goguardian {
+	display: none;
+}
+
+#mathpath {
+	display: none;
+}
+
+#spam {
+	display: none;
+}
+
+#extras {
+	display: none;
+}
+
+#credits {
+	display: none;
+}
+
+#math {
+    display: none;
+}    
+
+#tools {
+    display: none;
+}
+
+#bypassall {
+    display: none;
+}
+
+#devel {
+	display: none;
+}
+
+button {
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 32px;
+}
+
+#extras {
+	color: white;
+}
+
+* {
+	background-color: gray;
+}
+
+a {
+	color: lightblue;
+	font-size: 19px;
+	text-decoration: none;
+}
+
+h1 {
+	letter-spacing: 0.02cm;
+	color: white;
+	font-family: Arial;
+}
+
+h2 {
+	letter-spacing: 0.02cm;
+	color: white;
+	font-family: Arial;
+}
+
+ul  {
+	color: white;
+}
+
+ol {
+	color: aquamarine;
+}
+
+
